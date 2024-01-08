@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\header",
+    "\\src\\app\\home",
+    "\\src\\app\\show-content",
+    "\\src\\app\\welcome",
+    "\\src\\assets"
+  ],
+  "SelectedNode": "\\tsconfig.app.json",
+  "PreviewInSolutionExplorer": false
+}
